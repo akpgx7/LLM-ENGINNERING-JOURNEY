@@ -11,3 +11,4 @@ prompting and local inference to RAG pipelines, fine-tuning, and agents.
 | 3 | [AI Tutor](./03-AI-Tutor/) | Explains the provided code using a local Gemma3 model via ollama | Python, Ollama, OpenAI SDK |
 | 4 | [AI LLM Interface](./04-AI-LLM-Interface/) | Web Interface backed with Local Gemma3 via ollama and gemini-2.5-flash-lite | Python, Ollama , OpenAI SDK, Gradio |
 | 5 | [First Chatbot](./05-first-ChatBot/) | Web Chatbot using Gemini-2.5-flash lite | Python, OpenAI SDK, Gradio |
+| 6 | [Car Rental Chatbot](./06-Car-Rental-AI-Assistant/) | AI assistant for DriveEasy car rentals — checks pricing, availability, and makes bookings via function calling | Python, Gemini 2.5 Flash, SQLite, OpenAI SDK, Gradio |
